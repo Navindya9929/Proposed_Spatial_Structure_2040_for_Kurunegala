@@ -1,0 +1,1 @@
+var json_2nd_Level_Town_9 = {"type":"FeatureCollection","name":"2nd_Level_Town_9","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","town":"Pothuhera","Rank":"2"},"geometry":{"type":"Point","coordinates":[80.327949779614485,7.420085796178174]}}]}
